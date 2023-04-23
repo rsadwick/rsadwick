@@ -1,4 +1,5 @@
 # Skatin' till the wheels fall off
+(and when they fall off, I'll buy more wheels)
 
 🖥️ Full stack software engineer developing games and applications.
 
