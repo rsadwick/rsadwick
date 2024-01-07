@@ -5,7 +5,7 @@
 
 🤖 AI Model builder: check out my models & datasets at: https://huggingface.co/zuleo & https://civitai.com/user/ootie
 
-🛼 **Specialties**: c#, python, javascript, java, lua
+🛼 **Master of**: c++, c#, python, javascript, java, lua, gdscript
 
 ---
 
