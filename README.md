@@ -3,9 +3,11 @@
 
 🖥️ Full stack software engineer developing games at [3ee Games](https://3ee.com)
 
+🐐 **Master of**: c++, c#, python, javascript, java, lua, gdscript
+
 🤖 AI Model builder: check out my models & datasets at: https://huggingface.co/zuleo & https://civitai.com/user/ootie
 
-🛼 **Master of**: c++, c#, python, javascript, java, lua, gdscript
+🛼 SkatePark Roller Skater: https://www.instagram.com/ryan.on.quads/
 
 ---
 
