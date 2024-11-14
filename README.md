@@ -7,8 +7,4 @@
 
 🤖 AI Model builder: check out my models & datasets at: https://huggingface.co/zuleo & https://civitai.com/user/ootie
 
-🛼 SkatePark Roller Skater: https://www.instagram.com/ryan.on.quads/
-
----
-
-🎶 Enjoy lofi music while you code?  Check out [Cardboard Cowboy](https://www.twitch.tv/loficardboardcowboy)
+🛼 SkatePark Roller Skater: https://www.youtube.com/@ryan_on_quads & https://www.instagram.com/ryan.on.quads/
