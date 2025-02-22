@@ -7,6 +7,6 @@
 
 🤖 AI Model builder: check out my models & datasets at: https://huggingface.co/zuleo & https://civitai.com/user/ootie
 
-🎨 Shadertoy: https://www.shadertoy.com/profile/
+🎨 Shadertoy: [https://www.shadertoy.com/profile/zuleo](https://www.shadertoy.com/user/zuleo)
 
 🛼 SkatePark Roller Skater: https://www.youtube.com/@ryan_on_quads & https://www.instagram.com/ryan.on.quads/
