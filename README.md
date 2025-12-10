@@ -1,7 +1,7 @@
 # Skatin' till the wheels fall off
 (and when they fall off, I'll buy more wheels)
 
-🖥️ Full stack software engineer developing games at [3ee Games](https://3ee.com)
+🖥️ Full stack software engineer that specializes in low level programming at [3ee Games](https://3ee.com)
 
 🎮 I run [Games By Indie](https://gamesbyindie.com) that showcases amazing indie games.
 
