@@ -3,6 +3,8 @@
 
 🖥️ Full stack software engineer developing games at [3ee Games](https://3ee.com)
 
+🎮 I run [Games By Indie](https://gamesbyindie.com) that showcases amazing indie games.
+
 🐐 **Master of**: assembly, c, c++, c#, python, javascript, java, lua
 
 🤖 AI Model builder: check out my models & datasets at: https://huggingface.co/zuleo & https://civitai.com/user/ootie
