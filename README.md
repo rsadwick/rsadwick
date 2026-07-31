@@ -1,7 +1,3 @@
-# Ryan
-
-> Skatin' till the wheels fall off (and when they fall off, I'll buy more wheels).
-
 ### Core Focus
 * Full stack software engineer specializing in low level programming at [3ee Games](https://3ee.com).
 * Running [Games By Indie](https://gamesbyindie.com) to showcase independent video games.
