@@ -6,7 +6,7 @@
 * **Languages**: Assembly, C, C++, C#, Python, Java, JavaScript, SQL, OCaml
 * **Frameworks & Infrastructure**: Django, Spring Boot, .NET, Svelte, React, PyTorch, Docker, Kubernetes, Redis, PostgreSQL
 
-### Work & Projects
+### Projects
 * **AI Models & Datasets**: [Hugging Face](https://huggingface.co) / [Civitai](https://civitai.com)
 * **Graphics Programming**: [Shadertoy Profile](https://shadertoy.com)
 * **Open Source**: Contributor to Phaser, Mezzanine, and django-s3direct.
