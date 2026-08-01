@@ -12,4 +12,4 @@
 * **Open Source**: Contributor to Phaser, Mezzanine, and django-s3direct.
 
 ### Beyond
-* **Skatepark Roller Skating**: [YouTube Channel](https://youtube.com) / [Instagram](https://instagram.com)
+* **Skatepark Roller Skating**: [YouTube Channel](https://www.youtube.com/@ryan_on_quads) / [Instagram](https://www.instagram.com/ryan.on.quads/)
